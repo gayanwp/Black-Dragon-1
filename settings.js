@@ -49,7 +49,7 @@ global.mess = {
     bot: 'This feature could be used by bot only',
     wait: 'In process...',
     linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 23 Hours',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
 }
 
